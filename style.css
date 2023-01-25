@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+    padding: 11px;;
+}
+.container{
+   
+max-width: 80%;
+
+padding: 34px;
+margin: auto;
+} 
+.container h1,p{
+    text-align: center;
+}
+input,textarea{
+    
+    width: 80%;
+    margin: 11px;
+}
+.btn{
+    color:white;
+    background:green;
+    padding:8px 12px;
+    font-size:20px;
+    border:2px solid white;
+    border-radius: 14px;
+
+
+}
+.bg{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    
+}
+.submitmsg{
+    font-size: 25px;
+    color:green;
+}
